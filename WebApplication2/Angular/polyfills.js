@@ -5473,7 +5473,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\USUARIO\source\repos\WebApplication2\WebApplication2\AngularApp\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! C:\Users\USUARIO\source\repos\WebApplication2\Integracion-basica-ASPMVC-Angular\WebApplication2\AngularApp\src\polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })
